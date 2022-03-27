@@ -6,10 +6,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/3881d3556593127fcee3b9c3ba917e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: d_debate_topics.pdf
+type: OCWFile
 uid: 3881d355-6593-127f-cee3-b9c3ba917e38
 ---

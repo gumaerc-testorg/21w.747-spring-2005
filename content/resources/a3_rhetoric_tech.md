@@ -6,10 +6,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/2cffc762532f723b55923c69bdb78f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: a3_rhetoric_tech.pdf
+type: OCWFile
 uid: 2cffc762-532f-723b-5592-3c69bdb78f19
 ---

@@ -6,10 +6,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/3ce96628f43ed99b93ecaf8f736407
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: samantha_a1r.pdf
+type: OCWFile
 uid: 3ce96628-f43e-d99b-93ec-af8f736407ff
 ---

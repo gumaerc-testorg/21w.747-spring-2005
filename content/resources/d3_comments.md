@@ -6,10 +6,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/25c67d2b196e20b72f6672cdf1a33c
 file_type: application/pdf
 learning_resource_types:
 - Projects
-ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: d3_comments.pdf
+type: OCWFile
 uid: 25c67d2b-196e-20b7-2f66-72cdf1a33c23
 ---

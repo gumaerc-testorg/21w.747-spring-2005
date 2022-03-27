@@ -6,10 +6,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/2c9fb29102f4409821902f3729b3d0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: kevin_a1r.pdf
+type: OCWFile
 uid: 2c9fb291-02f4-4098-2190-2f3729b3d04c
 ---

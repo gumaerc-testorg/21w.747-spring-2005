@@ -6,10 +6,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/354612ec96a99d6e956ca3c7871b0c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: a1_rhetoric_trut.pdf
+type: OCWFile
 uid: 354612ec-96a9-9d6e-956c-a3c7871b0ca7
 ---

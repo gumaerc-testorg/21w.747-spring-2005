@@ -5,10 +5,10 @@ file: /media/courses/21w-747-rhetoric-spring-2005/927b2c161166b28df7d55fa493115e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: s_speaking_assns.pdf
+type: OCWFile
 uid: 927b2c16-1166-b28d-f7d5-5fa493115e7c
 ---
