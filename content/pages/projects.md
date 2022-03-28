@@ -1,21 +1,22 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
+parent_uid: null
 title: Projects
-type: CourseSection
 uid: e112d84d-089f-170b-76d1-2eafade85c98
 ---
 
 Debate Materials
 ----------------
 
-Debate Topics ([PDF]({{< baseurl >}}/resources/d_debate_topics-1))
+Debate Topics ({{< resource_link 6a1e2c80-1196-85e6-5520-a9c9bc33c78f "PDF" >}})
 
-Instructor Feedback Debate 1 ([PDF]({{< baseurl >}}/resources/d1_comments))
+Instructor Feedback Debate 1 ({{< resource_link 8da1b739-26cd-5bdf-82c3-61809dbb8c64 "PDF" >}})
 
-Instructor Feedback Debate 2 ([PDF]({{< baseurl >}}/resources/d2_comments))
+Instructor Feedback Debate 2 ({{< resource_link 6f3f551d-0426-e758-2986-4b2064135c53 "PDF" >}})
 
-Instructor Feedback Debate 3 ([PDF]({{< baseurl >}}/resources/d3_comments))
+Instructor Feedback Debate 3 ({{< resource_link 25c67d2b-196e-20b7-2f66-72cdf1a33c23 "PDF" >}})
 
 Example of Student Debates
 --------------------------
