@@ -1,19 +1,17 @@
 ---
 content_type: page
-learning_resource_types: []
-ocw_type: ''
-parent_uid: null
+description: Syllabus section contains the course overview along with the details
+  of the assignments and projects. It also mentions about the weightage of various
+  assignments.
+draft: false
 title: Syllabus
 uid: 9e41e855-80a4-62a4-a777-56f637151317
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Course Description
-------------------
+## Course Description
 
 This course uses the study of rhetoric as an opportunity to offer instruction in critical thinking. Through extensive writing and speaking assignments, students will develop their abilities to analyze texts of all kinds and to generate original and incisive ideas of their own. **Critical thinking** and **original analysis** as expressed in writing and in speech are the paramount goals of this class. The course will thus divide its efforts between an examination of the subject matter and an examination of student writing and speaking, in order to encourage in both instances the principal aims of the course.
 
@@ -29,113 +27,55 @@ The semester will begin with a brief introduction to the classical discipline of
 
 As the subject of rhetoric offers a unique opportunity in the humanities to combine theory and practice, we will take advantage of this opportunity, practicing rhetoric throughout the semester in writing and speaking. Student presentations will occupy much of our class time, and peer analysis of student writing will be a frequent exercise. In-class debates will allow us to practice both critical skills and persuasive ones. In addition to the major writing assignments, short assignments throughout the semester will rehearse elements of the writing process and help students prepare for class discussion. Needless to say, student attendance and participation are utterly crucial for a successful and effective rhetoric class.
 
-Grading
--------
+## Grading
 
 Bear in mind that drafts of writing assignments figure in to some extent as part of the grade for that assignment. Casual assignments constitute part of the **Participation** grade. Your grade will be determined as follows.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PARTS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Writing Assignment 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Writing Assignment 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Writing Assignment 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Speaking Assignment 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Speaking Assignment 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Speaking Assignment 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 In-class Debate
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Total
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 31
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-  
 In general, the highest grades will be earned by those students who present extremely original, highly critical ideas in distinct and lucid prose, taking care to avoid sloppy or lazy formatting, spelling, etc. In past semesters, 20 points has counted as a passing grade, while 24 points equated to a B grade.
 
-Course Details
---------------
+## Course Details
 
 ### Your Role in this Class
 
@@ -149,15 +89,11 @@ This class is to some extent unusual in the humanities in that, in keeping with 
 
 I do **not** distinguish between excused and unexcused absences. Given the "hands-on" nature of the subject matter, to miss class is necessarily to miss out on the learning that this class provides.
 
-*   There are **two penalty-free absences** that you should save for illness, religious reasons, job interviews, and the like. These absences are, for all practical purposes, "no questions asked," so that you need present no excuse for missing class. Note: In the last two weeks of class (the final four meetings), the "no questions asked" policy is suspended; missed classes during these last two weeks require a medical excuse and a doctor's note in order to count as a penalty-free absence.  
-    
-*   The third absence is no longer penalty free: it lowers **your final course grade** by a whole grade (e.g., an A becomes a B), the fourth lowers it another whole grade (the original A becomes a C).  
-    
-*   The **fifth absence means automatic failure for the course; you should drop the course immediately to avoid its showing up on your transcript**. This **automatic failure occurs regardless of your average or the reason for the absences** because you will not have fulfilled the course requirements - **no exceptions**.  
-    
-*   You must be **on time** for class.  **If other classes or labs will necessitate your arriving late or leaving early, do not take this class this semester**. Being more than 10 minutes late or having to leave class early will count as an absence.  
-    
-*   If you are absent on a day when you were responsible for part of class time (for example, you were giving a presentation or participating in a debate), you will likely receive a 0 for that assignment. This is unfortunate, but the busy schedules of your classmates do not allow for much post hoc shuffling.
+- There are **two penalty-free absences** that you should save for illness, religious reasons, job interviews, and the like. These absences are, for all practical purposes, "no questions asked," so that you need present no excuse for missing class. Note: In the last two weeks of class (the final four meetings), the "no questions asked" policy is suspended; missed classes during these last two weeks require a medical excuse and a doctor's note in order to count as a penalty-free absence.
+- The third absence is no longer penalty free: it lowers **your final course grade** by a whole grade (e.g., an A becomes a B), the fourth lowers it another whole grade (the original A becomes a C).
+- The **fifth absence means automatic failure for the course; you should drop the course immediately to avoid its showing up on your transcript**. This **automatic failure occurs regardless of your average or the reason for the absences** because you will not have fulfilled the course requirements - **no exceptions**.
+- You must be **on time** for class.  **If other classes or labs will necessitate your arriving late or leaving early, do not take this class this semester**. Being more than 10 minutes late or having to leave class early will count as an absence.
+- If you are absent on a day when you were responsible for part of class time (for example, you were giving a presentation or participating in a debate), you will likely receive a 0 for that assignment. This is unfortunate, but the busy schedules of your classmates do not allow for much post hoc shuffling.
 
 ### Manuscript Formats
 
@@ -183,38 +119,34 @@ Each student must meet at least once with the professor during the semester to d
 
 Oral presentations and speeches will receive a 0 if not given on time. Written work that is late reduces **your final course grade** by 1/3 (e.g., a B- for the course becomes a C+) for each **class** day that a paper is late. Work submitted late may receive no written commentary. Nevertheless, you are urged to submit all written assignments, even late ones, as non-submission has more severe consequences than does late submission. Note that **some work is due not in class but on a day when class does not meet**. These submissions are due at my office at the specified time. If I am not in my office at that time, please leave your submission in the "inbox" attached to the door of my office.
 
-Writing Center
---------------
+## Writing Center
 
 You are encouraged to consult the Writing Center at any stage of your writing process. They will also be happy to help you with speaking assignments. This is an invaluable resource so take advantage of it. Note that the Writing Center tends to get crowded at certain times during the semester, so it is best to schedule an appointment at least five days in advance if possible. See [MIT's online Writing and Communication Center](http://web.mit.edu/writing/).
 
-Plagiarism
-----------
+## Plagiarism
 
 **Plagiarism** (e.g., copying and pasting sections from the web, paying for someone's paper, handing in someone else's paper as your own) results in academic disaster. So it's crucial to understand the concept.
 
-*   Just as scientists demand complete and accurate information about experiments so they can duplicate and check those experiments and just as math professors demand complete and accurate work to show how you got the answer, so scholars and readers demand complete information so they can explore in more depth what your sources said (and, frankly, so they can check your accuracy in reporting what those sources said). In all academic writing, then, **you must give citations each time you use:**
-    *   someone else's ideas
-    *   someone else's words
-    *   someone else's phrasing
-    *   someone else's argument structure
-    *   someone else's unusual information
-*   The bottom line is to give credit wherever it is due. When in doubt, cite.  
-    
-*   Further, you show appropriate respect for other writers and thinkers by giving them credit for their ideas, their structures, their phrasings, and their information. In Western culture, not giving credit is an insult as well as an act of dishonesty.  
-    
-*   In other words, never take credit for someone else's words, ideas, or style (this prohibition includes material found on the Web).
-    *   Remember, although the material on the Web is free, you did not create it; someone else thought it, researched it, wrote it, and that someone must be given credit.  
-        
-*   There are four guidelines for using sources in your academic writing:
-    *   Unless a professor explicitly requests a paraphrase or unless you are translating a sophisticated technical source into language for the layperson, there is **rarely** a good reason to paraphrase a source-either summarize it in your own words or quote it exactly.  
-        
-    *   When you quote, quote exactly, use quotation marks, and cite the source.  
-        
-    *   When you use information **that might not be** considered common knowledge, cite the source.  
-        
-    *   **When in doubt, always give a citation.  
-        **
-*   In sum, your essays should always be your own work (although you are encouraged to seek writing advice from the Writing Center and from your workshop groups). Your essays should always be your **new** work created **specifically for this course.** Do not hand in work written for other courses-neither from this semester nor from previous semesters, and this prohibition includes modifying or adapting your own work from other courses-doing so will result in an unchangeable zero.  
-    
-*   If I so request, you must hand in **hard copies of all the sources that you used for writing an essay,** as well as your notes and rough drafts. If you cannot produce these materials when requested, the essay will receive a zero and will not be allowed to be replaced by another essay. Further, you may receive a failing grade for the class. Also, you are responsible for ensuring that others do not copy your work or submit it as their own.
+- Just as scientists demand complete and accurate information about experiments so they can duplicate and check those experiments and just as math professors demand complete and accurate work to show how you got the answer, so scholars and readers demand complete information so they can explore in more depth what your sources said (and, frankly, so they can check your accuracy in reporting what those sources said). In all academic writing, then, **you must give citations each time you use:**    
+      
+    - someone else's ideas
+    - someone else's words
+    - someone else's phrasing
+    - someone else's argument structure
+    - someone else's unusual information  
+         
+- The bottom line is to give credit wherever it is due. When in doubt, cite.
+- Further, you show appropriate respect for other writers and thinkers by giving them credit for their ideas, their structures, their phrasings, and their information. In Western culture, not giving credit is an insult as well as an act of dishonesty.
+- In other words, never take credit for someone else's words, ideas, or style (this prohibition includes material found on the Web).    
+      
+    - Remember, although the material on the Web is free, you did not create it; someone else thought it, researched it, wrote it, and that someone must be given credit.  
+         
+- There are four guidelines for using sources in your academic writing:    
+      
+    - Unless a professor explicitly requests a paraphrase or unless you are translating a sophisticated technical source into language for the layperson, there is **rarely** a good reason to paraphrase a source-either summarize it in your own words or quote it exactly.
+    - When you quote, quote exactly, use quotation marks, and cite the source.
+    - When you use information **that might not be** considered common knowledge, cite the source.
+    - **When in doubt, always give a citation.**   
+         
+- In sum, your essays should always be your own work (although you are encouraged to seek writing advice from the Writing Center and from your workshop groups). Your essays should always be your **new** work created **specifically for this course.** Do not hand in work written for other courses-neither from this semester nor from previous semesters, and this prohibition includes modifying or adapting your own work from other courses-doing so will result in an unchangeable zero.
+- If I so request, you must hand in **hard copies of all the sources that you used for writing an essay,** as well as your notes and rough drafts. If you cannot produce these materials when requested, the essay will receive a zero and will not be allowed to be replaced by another essay. Further, you may receive a failing grade for the class. Also, you are responsible for ensuring that others do not copy your work or submit it as their own.
