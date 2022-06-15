@@ -1,13 +1,14 @@
 ---
 content_type: page
+description: Calendar section contains the topics to be covered in the class with
+  the assignment submission dates.
 learning_resource_types: []
 ocw_type: ''
-parent_uid: null
 title: Calendar
 uid: 009acf44-9f72-2020-4074-a23428deb8b2
 ---
 
-The calendar presents course highlights and is not intended to be a comprehensive listing of course activities. There are a number of different kinds of assignments in this course, which are abbreviated in the calendar. Each type of assignment is described in detail in the {{< resource_link e1379556-10d5-9105-bf2d-b7f438d6a180 "assignments" >}} section.
+The calendar presents course highlights and is not intended to be a comprehensive listing of course activities. There are a number of different kinds of assignments in this course, which are abbreviated in the calendar. Each type of assignment is described in detail in the {{% resource_link e1379556-10d5-9105-bf2d-b7f438d6a180 "assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

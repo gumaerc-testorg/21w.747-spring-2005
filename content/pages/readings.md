@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: Readings section contains the list of books to be purchased along with
+  few useful links on classic texts and speeches.
 learning_resource_types: []
 ocw_type: ''
-parent_uid: null
 title: Readings
 uid: 780efd90-d744-597b-8325-cac581c26d18
 ---

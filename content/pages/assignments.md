@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: Assignments section contains the assignment details with the various
+  types of assignments. It also provides students' work as examples.
 learning_resource_types: []
 ocw_type: ''
-parent_uid: null
 title: Assignments
 uid: e1379556-10d5-9105-bf2d-b7f438d6a180
 ---
@@ -12,7 +13,7 @@ Examples of [student work](#Student_work) are available for this course.
 Assignments
 -----------
 
-There are a number of different kinds of assignments in this class, abbreviated in the schedule outlined in the {{< resource_link 009acf44-9f72-2020-4074-a23428deb8b2 "calendar" >}} section and presented throughout the semester in class, by email, and on paper.
+There are a number of different kinds of assignments in this class, abbreviated in the schedule outlined in the {{% resource_link 009acf44-9f72-2020-4074-a23428deb8b2 "calendar" %}} section and presented throughout the semester in class, by email, and on paper.
 
 ### C - A "Casual" Assignment
 
@@ -33,23 +34,23 @@ There are three debates during the semester. Each student will participate in on
 Paper Assignments
 -----------------
 
-C - Rhetoric Casual Assignments ({{< resource_link e418dcc4-3077-95ee-1c57-c7e693bd2024 "PDF" >}})
+C - Rhetoric Casual Assignments ({{% resource_link e418dcc4-3077-95ee-1c57-c7e693bd2024 "PDF" %}})
 
-A1 - Rhetoric of Truth ({{< resource_link 354612ec-96a9-9d6e-956c-a3c7871b0ca7 "PDF" >}})
+A1 - Rhetoric of Truth ({{% resource_link 354612ec-96a9-9d6e-956c-a3c7871b0ca7 "PDF" %}})
 
-A2 - Rhetorical Analysis ({{< resource_link 3a82bd50-fb3b-0ca2-63c0-7abb1fbefe53 "PDF" >}})
+A2 - Rhetorical Analysis ({{% resource_link 3a82bd50-fb3b-0ca2-63c0-7abb1fbefe53 "PDF" %}})
 
-A3 - Rhetoric of Technology ({{< resource_link 2cffc762-532f-723b-5592-3c69bdb78f19 "PDF" >}})
+A3 - Rhetoric of Technology ({{% resource_link 2cffc762-532f-723b-5592-3c69bdb78f19 "PDF" %}})
 
-S - Speaking Assignments ({{< resource_link 927b2c16-1166-b28d-f7d5-5fa493115e7c "PDF" >}})
+S - Speaking Assignments ({{% resource_link 927b2c16-1166-b28d-f7d5-5fa493115e7c "PDF" %}})
 
-D - Debate Topics ({{< resource_link 3881d355-6593-127f-cee3-b9c3ba917e38 "PDF" >}})
+D - Debate Topics ({{% resource_link 3881d355-6593-127f-cee3-b9c3ba917e38 "PDF" %}})
 
 {{< anchor "Student_work" >}}{{< /anchor >}}Student Work
 --------------------------------------------------------
 
 The student work presented in this section appears courtesy of the authors and shows the writing revision process for the course. Each paper is identified by its author and the assignment; for example, "A2R" is the second assignment, revision phase, while "A3D" is the third essay assignment, draft phase. The files themselves contain the student essays, exactly as electronically submitted to the instructor. Prof. Evens' commentary is presented on the final page of each paper.
 
-Kevin Liu - Truth and Rhetorical Effectiveness: A1D ({{< resource_link 625cbbf9-ecc1-375d-1363-25d6c8008a5f "PDF" >}}), A1R ({{< resource_link 2c9fb291-02f4-4098-2190-2f3729b3d04c "PDF" >}})
+Kevin Liu - Truth and Rhetorical Effectiveness: A1D ({{% resource_link 625cbbf9-ecc1-375d-1363-25d6c8008a5f "PDF" %}}), A1R ({{% resource_link 2c9fb291-02f4-4098-2190-2f3729b3d04c "PDF" %}})
 
-Samantha Weiss - The Relationship between Rhetoric and Truth: A1D ({{< resource_link bac4f04e-211c-87d9-40b6-7f28c20325ad "PDF" >}}), A1R ({{< resource_link 3ce96628-f43e-d99b-93ec-af8f736407ff "PDF" >}})
+Samantha Weiss - The Relationship between Rhetoric and Truth: A1D ({{% resource_link bac4f04e-211c-87d9-40b6-7f28c20325ad "PDF" %}}), A1R ({{% resource_link 3ce96628-f43e-d99b-93ec-af8f736407ff "PDF" %}})
