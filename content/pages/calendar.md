@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: Calendar section contains the topics to be covered in the class with
-  the assignment submission dates.
 learning_resource_types: []
 ocw_type: ''
 title: Calendar
