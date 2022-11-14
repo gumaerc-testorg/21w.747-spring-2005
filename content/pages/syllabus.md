@@ -1,8 +1,5 @@
 ---
 content_type: page
-description: Syllabus section contains the course overview along with the details
-  of the assignments and projects. It also mentions about the weightage of various
-  assignments.
 draft: false
 title: Syllabus
 uid: 9e41e855-80a4-62a4-a777-56f637151317
