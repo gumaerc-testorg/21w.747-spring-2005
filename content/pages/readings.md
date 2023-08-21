@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: Readings section contains the list of books to be purchased along with
-  few useful links on classic texts and speeches.
 learning_resource_types: []
 ocw_type: ''
 title: Readings

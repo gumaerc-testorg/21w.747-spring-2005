@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: Projects section contains information about the projects to be submitted.
-  It also contains a list of debate topics and video files for Student Debates.
 learning_resource_types: []
 ocw_type: ''
 title: Projects

@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: Assignments section contains the assignment details with the various
-  types of assignments. It also provides students' work as examples.
 learning_resource_types: []
 ocw_type: ''
 title: Assignments
