@@ -1,17 +1,17 @@
 ---
 content_type: page
+description: Required readings for 21W.747.
+draft: false
 learning_resource_types: []
 ocw_type: ''
 title: Readings
 uid: 780efd90-d744-597b-8325-cac581c26d18
 ---
+## Required Texts
 
-Required Texts
---------------
+Myerson, George. *Heidegger, Habermas and the Mobile Phone*. Melbourne, Australia: Totem Books, 2001. ISBN: 9781840462364.
 
-Myerson, George. _Heidegger, Habermas and the Mobile Phone_. Melbourne, Australia: Totem Books, 2001. ISBN: 9781840462364.
-
-Herrick, James A. _The History and Theory of Rhetoric: An Introduction_. 3rd ed. Boston, MA: Allyn and Bacon, 2004. ISBN: 9780205414925.
+Herrick, James A. *The History and Theory of Rhetoric: An Introduction*. 3rd ed. Boston, MA: Allyn and Bacon, 2004. ISBN: 9780205414925.
 
 This course also draws on classic texts and speeches, which include:
 
@@ -27,4 +27,4 @@ This course also draws on classic texts and speeches, which include:
 
 [American Rhetoric Speech Bank](http://www.americanrhetoric.com/)
 
-[Martin Luther King Jr. Speeches](https://kinginstitute.stanford.edu/listen-sermons-and-speeches)
+Martin Luther King Jr. Speeches
