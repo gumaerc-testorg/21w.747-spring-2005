@@ -21,8 +21,6 @@ This course also draws on classic texts and speeches, which include:
 
 [Aristotle's Rhetoric](http://plato.stanford.edu/entries/aristotle-rhetoric/)
 
-[Presidential Speeches](http://www.theamericanpresidency.us/archive.htm)
-
 [Presidential Rhetoric](http://www.presidentialrhetoric.com/)
 
 [American Rhetoric Speech Bank](http://www.americanrhetoric.com/)
