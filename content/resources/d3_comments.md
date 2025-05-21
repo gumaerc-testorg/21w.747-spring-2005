@@ -2,7 +2,7 @@
 content_type: resource
 description: Remarks from the instructor about students' performance during the third
   in-class debate.
-file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2005/25c67d2b196e20b72f6672cdf1a33c23_d3_comments.pdf
+file: /courses/21w-747-rhetoric-spring-2005/25c67d2b196e20b72f6672cdf1a33c23_d3_comments.pdf
 file_size: 37117
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This example of student work from the course presents a student''s final
   revision for ''Assignment A1: Rhetoric of Truth'' (Courtesy of Samantha Weiss).'
-file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2005/3ce96628f43ed99b93ecaf8f736407ff_samantha_a1r.pdf
+file: /courses/21w-747-rhetoric-spring-2005/3ce96628f43ed99b93ecaf8f736407ff_samantha_a1r.pdf
 file_size: 29686
 file_type: application/pdf
 learning_resource_types:

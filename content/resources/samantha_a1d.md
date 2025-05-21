@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This example of student work from the course is a first draft for ''Assignment
   A1: Rhetoric of Truth'' (Courtesy of Samantha Weiss).'
-file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2005/bac4f04e211c87d940b67f28c20325ad_samantha_a1d.pdf
+file: /courses/21w-747-rhetoric-spring-2005/bac4f04e211c87d940b67f28c20325ad_samantha_a1d.pdf
 file_size: 28961
 file_type: application/pdf
 learning_resource_types:
