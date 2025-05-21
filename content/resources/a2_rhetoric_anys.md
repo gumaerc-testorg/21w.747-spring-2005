@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions and guidelines for the second essay assignment, which asks
   students to perform a rhetorical analysis.
-file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2005/3a82bd50fb3b0ca263c07abb1fbefe53_a2_rhetoric_anys.pdf
+file: /courses/21w-747-rhetoric-spring-2005/3a82bd50fb3b0ca263c07abb1fbefe53_a2_rhetoric_anys.pdf
 file_size: 28605
 file_type: application/pdf
 learning_resource_types:
