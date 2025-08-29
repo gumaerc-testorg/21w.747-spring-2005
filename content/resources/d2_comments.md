@@ -2,7 +2,7 @@
 content_type: resource
 description: Remarks from the instructor about students' performance during the second
   in-class debate.
-file: /courses/21w-747-rhetoric-spring-2005/6f3f551d0426e75829864b2064135c53_d2_comments.pdf
+file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2005/6f3f551d0426e75829864b2064135c53_d2_comments.pdf
 file_size: 26071
 file_type: application/pdf
 learning_resource_types:
