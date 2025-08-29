@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Instructions for in class debate of the following topics: Writing versus
   Speaking, International Cultural and Political Diversity, The Value of Technology.'
-file: /courses/21w-747-rhetoric-spring-2005/6a1e2c80119685e65520a9c9bc33c78f_d_debate_topics.pdf
+file: /ol-ocw-studio-app/courses/21w-747-rhetoric-spring-2005/6a1e2c80119685e65520a9c9bc33c78f_d_debate_topics.pdf
 file_size: 15638
 file_type: application/pdf
 learning_resource_types:
